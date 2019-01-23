@@ -1,0 +1,21 @@
+{
+  "name": "graphql-server",
+  "version": "1.0.0",
+  "description": "create a simple application with graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "graphpack",
+    "build": "graphpack build"
+  },
+  "keywords": [
+    "graphql",
+    "javascript",
+    "api"
+  ],
+  "author": "Godfrey Tutu",
+  "license": "ISC",
+  "dependencies": {
+    "graphpack": "^1.0.6"
+  }
+}
